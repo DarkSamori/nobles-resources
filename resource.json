@@ -2,25 +2,27 @@
   "version": "1.0",
   "pub_date": "27-07-2025",
   "app": "nobles",
+  "status": "active",
+  "description": "Nobles is a powerful tool for managing and processing media files",
   "resources": {
     "linux": {
       "ffmpeg_ffprobe": {
-        "url": ""
+        "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_linux.zip"
       }
     },
     "macos-silicon": {
       "ffmpeg_ffprobe": {
-        "url": ""
+        "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_macos-silicon.zip"
       }
     },
     "macos-intel": {
       "ffmpeg_ffprobe": {
-        "url": ""
+        "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_macos-intel.zip"
       }
     },
     "windows": {
       "ffmpeg_ffprobe": {
-        "url": ""
+        "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_windows.zip"
       }
     }
   }
