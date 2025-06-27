@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "pub_date": "27-07-2025",
+  "app": "nobles",
+  "resources": {
+    "linux": {
+      "ffmpeg_ffprobe": {
+        "url": ""
+      }
+    },
+    "macos-silicon": {
+      "ffmpeg_ffprobe": {
+        "url": ""
+      }
+    },
+    "macos-intel": {
+      "ffmpeg_ffprobe": {
+        "url": ""
+      }
+    },
+    "windows": {
+      "ffmpeg_ffprobe": {
+        "url": ""
+      }
+    }
+  }
+}
