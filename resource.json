@@ -2,6 +2,9 @@
   "version": "1.0",
   "pub_date": "27-07-2025",
   "app": "nobles",
+  "type": "resource",
+  "name": "resource for nobles app",
+  "notes": "This resource file contains the necessary media processing tools for the Nobles app",
   "status": "active",
   "description": "Nobles is a powerful tool for managing and processing media files",
   "resources": {
