@@ -5,24 +5,24 @@
   "status": "active",
   "description": "Nobles is a powerful tool for managing and processing media files",
   "resources": {
-    "linux": {
-      "ffmpeg_ffprobe": {
-        "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_linux.zip"
-      }
-    },
-    "macos-silicon": {
+    "darwin-aarch64": {
       "ffmpeg_ffprobe": {
         "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_macos-silicon.zip"
       }
     },
-    "macos-intel": {
+    "darwin-x86_64": {
       "ffmpeg_ffprobe": {
         "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_macos-intel.zip"
       }
     },
-    "windows": {
+    "windows-x86_64": {
       "ffmpeg_ffprobe": {
         "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_windows.zip"
+      }
+    },
+    "linux-x86_64": {
+      "ffmpeg_ffprobe": {
+        "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_linux.zip"
       }
     }
   }
