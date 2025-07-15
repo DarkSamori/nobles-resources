@@ -11,21 +11,33 @@
     "darwin-aarch64": {
       "ffmpeg_ffprobe": {
         "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_macos-silicon.zip"
+      },
+      "yt": {
+        "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/yt_macos.zip"
       }
     },
     "darwin-x86_64": {
       "ffmpeg_ffprobe": {
         "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_macos-intel.zip"
+      },
+      "yt": {
+        "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/yt_macos.zip"
       }
     },
     "windows-x86_64": {
       "ffmpeg_ffprobe": {
         "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_windows.zip"
+      },
+      "yt": {
+        "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/yt_windows.zip"
       }
     },
     "linux-x86_64": {
       "ffmpeg_ffprobe": {
         "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_linux.zip"
+      },
+      "yt": {
+        "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/yt_linux.zip"
       }
     }
   }
