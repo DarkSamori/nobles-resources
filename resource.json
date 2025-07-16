@@ -11,41 +11,41 @@
     "darwin-aarch64": {
       "ffmpeg_ffprobe": {
         "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_macos-silicon.zip",
-        "bin": ["ffmpeg", "ffprobe"]
+        "bin": ["ffmpeg_ffprobe/ffmpeg", "ffmpeg_ffprobe/ffprobe"]
       },
       "yt": {
         "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/yt_macos.zip",
-        "bin": ["yt_dlp_macos"]
+        "bin": ["yt_binar/yt_dlp_macos"]
       }
     },
     "darwin-x86_64": {
       "ffmpeg_ffprobe": {
         "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_macos-intel.zip",
-        "bin": ["ffmpeg", "ffprobe"]
+        "bin": ["ffmpeg_ffprobe/ffmpeg", "ffmpeg_ffprobe/ffprobe"]
       },
       "yt": {
         "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/yt_macos.zip",
-        "bin": ["yt_dlp_macos"]
+        "bin": ["yt_binar/yt_dlp_macos"]
       }
     },
     "windows-x86_64": {
       "ffmpeg_ffprobe": {
         "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_windows.zip",
-        "bin": ["ffmpeg.exe", "ffprobe.exe"]
+        "bin": ["ffmpeg_ffprobe/ffmpeg.exe", "ffmpeg_ffprobe/ffprobe.exe"]
       },
       "yt": {
         "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/yt_windows.zip",
-        "bin": ["yt_dlp.exe"]
+        "bin": ["yt_binar/yt_dlp.exe"]
       }
     },
     "linux-x86_64": {
       "ffmpeg_ffprobe": {
         "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/ff_linux.zip",
-        "bin": ["ffmpeg", "ffprobe"]
+        "bin": ["ffmpeg_ffprobe/ffmpeg", "ffmpeg_ffprobe/ffprobe"]
       },
       "yt": {
         "url": "https://github.com/DarkSamori/nobles-resources/releases/download/v0.0.1/yt_linux.zip",
-        "bin": ["yt_dlp"]
+        "bin": ["yt_binar/yt_dlp"]
       }
     }
   }
